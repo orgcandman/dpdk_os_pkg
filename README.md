@@ -42,3 +42,4 @@ Thank you,
 <please sign your name & role here>
 
 Ray Kinsella, DPDK and FD.io Contributor
+Luca Boccassi, Debian maintainer and DPDK LTS maintainer
