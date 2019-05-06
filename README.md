@@ -44,3 +44,4 @@ Thank you,
 Ray Kinsella, DPDK and FD.io Contributor  
 Luca Boccassi, Debian maintainer and DPDK LTS maintainer  
 Nirmoy Das, SUSE dpdk maintainer  
+Christian Ehrhardt, Ubuntu maintainer and former DPDK LTS maintainer  
