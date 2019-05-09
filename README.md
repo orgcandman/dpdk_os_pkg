@@ -46,3 +46,4 @@ Luca Boccassi, Debian maintainer and DPDK LTS maintainer
 Nirmoy Das, SUSE dpdk maintainer  
 Christian Ehrhardt, Ubuntu maintainer and former DPDK LTS maintainer  
 Ian Stokes, Open vSwitch maintainer  
+Tom Herbert, FD.io/VPP contributor. CentOS NFV SIG chair.
