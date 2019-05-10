@@ -48,3 +48,4 @@ Christian Ehrhardt, Ubuntu maintainer and former DPDK LTS maintainer
 Ian Stokes, Open vSwitch maintainer  
 Tom Herbert, FD.io/VPP contributor. CentOS NFV SIG chair.  
 Billy McFall, DPDK consumer and FD.io/VPP Contributor  
+Aaron Conole, DPDK and OVS consumer, DPDK and OVS Contributor, DPDK and OVS CI maintainer  
